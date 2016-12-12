@@ -1,8 +1,7 @@
-#include <iostream>
+#include "stdafx.h"
+
 #include <signal.h>
 #include <stdlib.h>
-
-#include "stdafx.h"
 
 
 void handleSignal(int signal)
